@@ -27,15 +27,6 @@ skills.</p>
 
 🔥 **Always learning, innovating, and building intelligent solutions!** 🚀  
 
-<table><tr><td valign="top" width="33%">  
 
-
-
-
-# 🐍 My Contribution Graph
-
-
-
-![Snake animation](https://github.com/mhd-sadiq/your-username/blob/output/github-contribution-grid-snake.svg)
 
 
