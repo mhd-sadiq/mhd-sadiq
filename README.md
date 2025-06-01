@@ -1,32 +1,83 @@
-<h2> About Me </h2>
-<h2> Muhammed Sadiq.K</h2>
-<p>I am a diploma student studying Artificial Intelligence and Machine Learning at Learn Logic AI,
-Manjeri. I have a strong foundation in Python programming. I am familiar with libraries like Pandas,
-NumPy, Matplotlib, and Seaborn. My interests lie in AI, data analysis, and automation. I am eager to
-learn and explore new technologies in machine learning. I enjoy working with data to gain insights
-and solve problems. My goal is to build a strong career in AI and ML by continuously improving my
-skills.</p>
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
 
+<br /> 
+<h1 align="center">Hi 👋, I'm Muhammed Sadiq K</h1>
+<h3 align="center">Student at Learn Logic AI, Manjery🌟.</h3>
 
-## 🚀 My Skill Set  
+<br>
 
-- 🎯 **<span style="color:#FFD700">Programming Languages:</span>**  
-  - 🐍 <span style="color:#3776AB"><strong>Python</strong></span>  
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=mhd-sadiq&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
+<br>
 
-- 📊 **<span style="color:#32CD32">Libraries & Tools:</span>**  
-  - 📦 <span style="color:#150458"><strong>pandas</strong></span>, 🔢 <span style="color:#013243"><strong>NumPy</strong></span>  
-  - 🎨 <span style="color:#00A6D6"><strong>seaborn</strong></span>, 📉 <span style="color:#11557C"><strong>matplotlib</strong></span>  
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌐 **<span style="color:#FF5733">Deployment Frameworks:</span>**  
-  - ⚡ <span style="color:#000000"><strong>Flask</strong></span>, 🎮 <span style="color:#FF4F00"><strong>Gradio</strong></span>, 🚀 <span style="color:#FF4B3A"><strong>Streamlit</strong></span>  
+- 🌱 I’m currently learning AI Development and other programming languages
 
-- 🤖 **<span style="color:#1E90FF">Machine Learning Algorithms:</span>**  
-  - 📈 <span style="color:#FFA500"><strong>Linear Regression</strong></span>, 🌳 <span style="color:#32CD32"><strong>Decision Trees</strong></span>  
+- 📫 How to reach me **sadiqkalathil77@gmail.com**
 
-🔥 **Always learning, innovating, and building intelligent solutions!** 🚀  
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammed-sadiq-k-b460a632a/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/sadiq_mhd3/?hl=en" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+<a href="https://github.com/anshiii-shaa" target="blank">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
+       alt="anshiii-shaa" 
+       height="30" 
+       width="40" />
+</p>
 
 
+<br>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools⚒️</h2>
+<br/>
+<div align="center">
+  <!-- First Row -->
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
+  <img src="https://numpy.org/images/logo.svg" height="40" alt="NumPy logo" />
+
+  <!-- Second Row -->
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib logo" width="30" height="30" /> 
+  </a>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn logo" />
+  <img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" height="30" alt="Scikit-learn logo" />
+  <img src="https://skillicons.dev/icons?i=googlecloud" height="40" alt="Google Cloud logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code logo" />
+
+  <!-- Third Row -->
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows logo" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab logo" />
+  
+</div>
+</p>
+
+
+
+<h2 align="center"><u>My Github Stats</u></h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshiii-shaa&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<br>
+<br>
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+</p>
