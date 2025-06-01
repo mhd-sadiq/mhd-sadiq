@@ -33,10 +33,10 @@
   <a href="https://www.instagram.com/sadiq_mhd3/?hl=en" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
-<a href="https://github.com/anshiii-shaa" target="blank">
+<a href="https://github.com/mhd-sadiq" target="blank">
   <img align="center" 
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
-       alt="anshiii-shaa" 
+       alt="mhd-sadiq" 
        height="30" 
        width="40" />
 </p>
@@ -75,7 +75,7 @@
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshiii-shaa&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-sadiq&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
 <br>
 <!-- RAINBOW LINE TOP -->
